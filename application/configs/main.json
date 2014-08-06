@@ -4,7 +4,7 @@
         "TIMEZONE"  :   "Europe/Paris"
     },
 	"ROUTING"   :	{
-        "BASE_URL"	:	"/Eliya_Codebase/",
+        "BASE_URL"	:	"/",
         "RULES"     		:   {
             "sample-([0-9]+)\\.html"	:	["sample", "index", "page"]
         }
